@@ -8,6 +8,7 @@ Version: 5.6
 
 CodeMirror Library:
 - codemirror.js
+
 Modes:
 - clike.js
 - css.js
@@ -20,6 +21,7 @@ Modes:
 - xml.js
 - xquery.js
 - yaml.js
+
 Add-ons:
 - anyword-hint.js
 - closebrackets.js
